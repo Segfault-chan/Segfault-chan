@@ -1,6 +1,6 @@
 ## Hi there, I'm Segfault-chan! 👾💻
 
-<img src="https://tse1.mm.bing.net/th?id=OIP.fr1CuLNcd9r-rdKHFyJ12gHaG6&pid=Api" width="300" align="right" />
+<img src="https://i.pinimg.com/originals/99/44/94/9944941e219589ba7f482d64d5aa20c1.gif" width="300" align="right" />
 
 🔹 **Low-level enthusiast** – Poking at memory until it pokes back. 🛠️💀  
 🔹 **C/C++ | Rust | Assembly** – Because safety is optional, but speed is not. ⚡🔥  
